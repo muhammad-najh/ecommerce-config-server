@@ -1,6 +1,3 @@
-server:
-  port: 8083
-
 jwt:
   secretKey: a-string-secret-at-least-256-bits-long
 
