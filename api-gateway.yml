@@ -1,6 +1,7 @@
 jwt:
   secretKey: a-string-secret-at-least-256-bits-long
 #api gateway config
+spring:
   cloud:
     gateway:
       routes:
